@@ -1,12 +1,11 @@
 #!/usr/bin/node
-"use strict"
-var task = false;
-var task2 = true;
-export default function taskBlock(trueOrFalse) {
-  if (trueOrFalse) {
-    var task = true;
-    var task2 = false;
-  }
 
+export default function taskBlock(trueOrFalse) {
+  let task = false;
+  let task2 = true;
+  if (trueOrFalse) {
+    task = true;
+    task2 = false;
+  }
   return [task, task2];
 }
