@@ -1,6 +1,5 @@
 # 0x01-ES6_promise
 
-
 ## This project, covers 0x01-ES6_promises 
 
 #### Promises (how, why, and what)
