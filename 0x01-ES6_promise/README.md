@@ -5,6 +5,7 @@
 
 #### Promises (how, why, and what)
 ##### The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+
 ####    How to use the then, resolve, catch methods
 ####    How to use every method of the Promise object
 ####    Throw / Try
